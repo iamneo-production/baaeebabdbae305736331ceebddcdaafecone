@@ -24,13 +24,13 @@ th {
     padding: 20px;
 }
 
-h1 {
-    text-align: center;
-}
+/* h1 {
+    text-align:center;
+} */
 
 .total-collection-button {
-    background-color: #b1cab2;
-    /* background-color: #4CAF50; */
+    /* background-color: #b1cab2; */
+    background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
     border: none;
